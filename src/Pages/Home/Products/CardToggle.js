@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaMinus, FaPlus } from "react-icons/fa"
 
-const CardToggle = ({ amount, setDecrease, setIncrease }) => {
+const CardToggle = ({ quantity, setDecrease, setIncrease }) => {
     return (
         <div className='cart-button'>
             <div className='amount-toggle flex flex-wrap justify-between'>
