@@ -1,0 +1,51 @@
+[
+
+{
+    "name":"Pink Sweater",
+    "image":"https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?size=626&ext=jpg&ga=GA1.1.89839238.1664401225&semt=sph",
+    "price": "200",
+    "details":"Good Quality, Cotton Branded and Full sleeves"
+},
+{
+    
+    "name":"Back Hoddie",
+    "image":"https://img.freepik.com/free-psd/back-view-hoodie-mockup_125540-876.jpg?size=626&ext=jpg&ga=GA1.1.89839238.1664401225&semt=sph",
+    "price": "500",
+    "details":"Good Quality, Cotton Branded and Full sleeves with Hoddies"
+},
+{
+    
+    "name":"Sport Jacket",
+    "image":"https://img.freepik.com/premium-vector/vector-illustration-sport-hoodie-jacket_38893-401.jpg?size=626&ext=jpg&ga=GA1.2.89839238.1664401225&semt=sph",
+    "price": "350",
+    "details":"Good Quality, Cotton Branded and Full sleeves"
+},
+{
+    
+    "name":"Hand Gloves",
+    "image":"https://t4.ftcdn.net/jpg/00/99/65/63/240_F_99656362_OJooPqGw2aWrlwO7Jqc7wzZ2p5JYkYVz.jpg",
+    "price": "150",
+    "details":"Good Quality and Cotton Branded"
+},
+{
+    
+    "name":"MockUp Hat",
+    "image":"https://img.freepik.com/free-photo/fedora-hat_1101-691.jpg?size=626&ext=jpg&ga=GA1.2.89839238.1664401225&semt=sph",
+    "price": "500",
+    "details":"Good Quality and Cotton Branded"
+},
+{
+    
+    "name":"Jacket",
+    "image":"https://as2.ftcdn.net/v2/jpg/00/93/71/37/1000_F_93713755_cO7yC331gdqbPImq7T2Nnw9P2BRs8xDb.jpg",
+    "price": "300",
+    "details":"Good Quality and Jeans Branded"
+}
+
+
+
+
+
+
+
+]
